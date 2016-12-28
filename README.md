@@ -8,7 +8,7 @@ Template for Spring 4 MVC + JSP view + XML configuration, using Gradle build too
 * JSTL 1.2
 * Logback 1.1.3
 * Boostrap 3
-
+gg
 ###2. To Run this project locally
 ```shell
 $ git clone https://github.com/mkyong/spring4-mvc-gradle-xml-hello-world
